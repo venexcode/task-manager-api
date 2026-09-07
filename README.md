@@ -1,6 +1,6 @@
 # 🚀 Task Manager API
 
-> Una API REST robusta y moderna para la gestión de tareas, construida con Spring Boot y respaldada por un pipeline automatizado de Integración Continua (CI/CD).
+> Una API REST sencilla para la gestión de tareas, construida con Spring Boot y respaldada por un pipeline automatizado de Integración Continua (CI/CD).
 
 ---
 
